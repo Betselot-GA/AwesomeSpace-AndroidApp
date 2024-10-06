@@ -33,4 +33,9 @@
 Watch our demo video on YouTube:
 
 [![Demo Video](https://img.youtube.com/vi/uuYwhkNSq8M/0.jpg)](https://www.youtube.com/shorts/uuYwhkNSq8M?feature=share)
+## iOS Version
+
+Check out the iOS version of AwesomeSpace here:
+
+[AwesomeSpace-iOS GitHub Repository](https://github.com/yohannescodes/AwesomeSpace-iOS)
 
