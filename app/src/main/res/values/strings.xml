@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExoplanetExploration</string>
+    <string name="exoplanet_image_desc">An image of the exoplanet</string>
+    <string name="scan_button_text">Scan for Exoplanets</string>
+    <string name="exoplanet_info">Description of the exoplanet.</string>
+</resources>
