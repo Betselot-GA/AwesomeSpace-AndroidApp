@@ -31,4 +31,4 @@
 ## Demo Video
 Watch our demo video on YouTube:
 
-[![Demo Video]([https://img.youtube.com/vi/abcd1234/0.jpg)](https://www.youtube.com/watch?v=abcd1234](https://youtube.com/shorts/uuYwhkNSq8M?feature=share))
+[![Demo Video]([[https://img.youtube.com/vi/abcd1234/0.jpg)](https://www.youtube.com/watch?v=abcd1234](https://youtube.com/shorts/uuYwhkNSq8M?feature=share](https://www.youtube.com/shorts/uuYwhkNSq8M)))
