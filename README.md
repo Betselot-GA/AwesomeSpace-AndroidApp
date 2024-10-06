@@ -6,10 +6,7 @@
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#betselotsemaw@gmail.com)
+- [Contact](#contact)
 
 ## Features
 - Explore exoplanets in augmented reality.
@@ -39,3 +36,6 @@ Check out the iOS version of AwesomeSpace here:
 
 [AwesomeSpace-iOS GitHub Repository](https://github.com/yohannescodes/AwesomeSpace-iOS)
 
+## Contact Info
+
+betselotsemaw@gmail.com
